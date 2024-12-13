@@ -1,0 +1,23 @@
+MeuTemaDark:
+  # Cores principais
+  primary-color: "#abff10"  # Cor de destaque principal (um tom mais vibrante)
+  accent-color: "#abff10"   # Cor de destaque secundária
+  background-color: "#2c2c2c"  # Cor de fundo (escuro)
+  card-background-color: "#2c2c2c"  # Cor de fundo dos cartões (mais escuro para contraste)
+  text-color: "#ffffff"  # Cor do texto (branco claro para contraste)
+  secondary-text-color: "#b0b0b0"  # Cor do texto secundário (mais suave)
+  divider-color: "rgba(255, 255, 255, 0.12)"  # Cor das divisórias
+
+  # Barra lateral e navegação
+  sidebar-background-color: "#2c2c2c"  # Cor de fundo da barra lateral (escura)
+  sidebar-icon-color: "#b0b0b0"  # Cor dos ícones da barra lateral (branca para contraste)
+  sidebar-text-color: "#b0b0b0"  # Cor do texto da barra lateral (verde para destaque)
+
+  # Cabeçalho
+  app-header-background-color: "#2c2c2c"  # Cor de fundo do cabeçalho (escuro)
+  app-header-text-color: "#2c2c2c"  # Cor do texto do cabeçalho (branco claro para visibilidade)
+
+  # Botões e interações
+  button-primary-color: "#abff10"  # Cor do botão principal
+  button-secondary-color: "#2c2c2c"  # Cor do botão secundário (escuro)
+  button-text-color: "#b0b0b0"  # Cor do texto do botão (branco para contraste)
